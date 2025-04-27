@@ -1,5 +1,7 @@
 # ngsiv2
 
+[![Java CI with Maven](https://github.com/makeOurCity/ngsiv2-java/actions/workflows/maven.yml/badge.svg)](https://github.com/makeOurCity/ngsiv2-java/actions/workflows/maven.yml)
+
 FIWARE-NGSI v2 Specification
 
 - API version: 1.0
@@ -38,15 +40,14 @@ Refer to the [OSSRH Guide](http://central.sonatype.org/pages/ossrh-guide.html) f
 
 ### Maven users
 
-Add this dependency to your project's POM:
+with jit pack
 
 ```xml
-<dependency>
-  <groupId>city.makeour.ngsi.v2</groupId>
-  <artifactId>ngsiv2</artifactId>
-  <version>1.0</version>
-  <scope>compile</scope>
-</dependency>
+    <dependency>
+      <groupId>com.github.makeOurCity</groupId>
+      <artifactId>ngsiv2-java</artifactId>
+      <version>0.0.2</version>
+    </dependency>
 ```
 
 ### Gradle users
