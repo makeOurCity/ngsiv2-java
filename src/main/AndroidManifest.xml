@@ -1,0 +1,3 @@
+<manifest package="city.makeour.ngsi.v2.invoker" xmlns:android="http://schemas.android.com/apk/res/android">
+    <application />
+</manifest>
