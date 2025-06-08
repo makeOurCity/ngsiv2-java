@@ -1,0 +1,13 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "cSpell.words": [
+        "doclint",
+        "findbugs",
+        "javadocs",
+        "makeour",
+        "ngsi",
+        "ngsiv",
+        "openapitools",
+        "springframework"
+    ]
+}
